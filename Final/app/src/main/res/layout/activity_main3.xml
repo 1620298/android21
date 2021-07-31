@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/tvServicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/servicio"/>
+
+    <Button
+        android:id="@+id/btnArrancar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvServicio"
+        android:text="@string/arrancar" />
+
+    <Button
+        android:id="@+id/btnDetner"
+        android:layout_below="@+id/btnArrancar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/detener"/>
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_below="@+id/btnDetner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/atras"/>
+
+</RelativeLayout>

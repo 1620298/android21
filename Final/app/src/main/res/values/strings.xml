@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="password">Password</string>
+    <string name="Enviar">Enviar</string>
+    <string name="username">Username</string>
+    <string name="musica">Escuchar Musica</string>
+    <string name="alamacenar">Almacenar Datos</string>
+    <string name="almacenar">Almacenar Datos</string>
+    <string name="ver">Ver Datos</string>
+    <string name="servicio">Servicio de Musica</string>
+    <string name="arrancar">Arrancar</string>
+    <string name="detener">Detener Servicio</string>
+    <string name="retroceder">Atras</string>
+    <string name="atras">Atras</string>
+    <string name="titulo">Ingrese Titulo</string>
+</resources>

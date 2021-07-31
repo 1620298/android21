@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/alarma"
+        android:title="alarm_icon"
+        android:icon="@drawable/ic_add_alarm_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/avion"
+        android:title="avion_icon"
+        android:icon="@drawable/ic_airplanemode_active_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>

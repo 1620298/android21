@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoVolley</string>
+    <string name="fecha_entrada">Fecha Entrada</string>
+    <string name="fecha_salida">Fecha Salida</string>
+    <string name="cargar">Cargar</string>
+    <string name="guardar">Guardar</string>
+    <string name="aplicacion_reservas">Aplicacion para realizar las Reservas de habitacion en Hotel</string>
+    <string name="numero_habitacion">Numero de Habitacion</string>
+</resources>
